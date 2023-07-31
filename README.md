@@ -1,6 +1,6 @@
 ## Nutrição API
 
-<h1 text="center"><img src="img/gif.gif"></h1>
+<h1 text="center"><img src="../react/src//img/gif.gif"></h1>
 
 Aplicação que utiliza a API, que exibe informações sobre nutrição.
 
