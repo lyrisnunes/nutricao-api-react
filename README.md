@@ -1,6 +1,8 @@
 ## Nutrição API
 
-<h1 text="center"><img src="../react/src/img/gif.gif"></h1>
+<h1>
+         <img src="src/img/gif.gif" alt="">
+</h1>
 
 Aplicação que utiliza a API, que exibe informações sobre nutrição.
 
@@ -22,7 +24,7 @@ Sim é um projeto simples mas me trouxe um aprendizado enorme, agora posso dizer
 
  <h4>
         <a href="https://nutricao-api-react.vercel.app/"> - Veja o projeto clique aqui </a>
-</h3>
+</h4>
 
 ## 📪 Contact
 
